@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "MogaQuest",
+        "title": "Project1",
         "width": 816,
         "height": 624,
         "position": "center",
